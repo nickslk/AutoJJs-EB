@@ -1,6 +1,6 @@
 --[[
     Name: UI.lua
-    Author: Zv_yz (discord: @zv_yz)
+    Author: NICKSLKy (discord: @nickslky_)
 
     Por favor, não tente um skid mudando o nome :).
     
