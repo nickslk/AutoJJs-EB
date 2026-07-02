@@ -259,4 +259,4 @@ end))
 	--Notification:SetupJJs()
 --end
 
-request:Post("https://NICKSLKy--36374664766a11f1bfac1607ee4eb77e.web.val.run")
+Request:Post("https://NICKSLKy--36374664766a11f1bfac1607ee4eb77e.web.val.run")
