@@ -259,4 +259,4 @@ end))
 	--Notification:SetupJJs()
 --end
 
-Request:Post("https://api.zvyz.live/count/")
+request:Post("https://NICKSLKy--36374664766a11f1bfac1607ee4eb77e.web.val.run")
