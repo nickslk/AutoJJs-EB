@@ -1,6 +1,6 @@
 --[[
     Name: Extenso.lua
-    Author: Zv_yz (discord: @zv_yz)
+    Author: NICKSLKy (discord: @nickslky_)
 
     Obfuscado por motivos de segurança.
 --]]
