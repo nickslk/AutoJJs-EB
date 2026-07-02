@@ -35,7 +35,7 @@ return {
 	},
 	
 	Notification = {
-		Default = "Feito por Zv_yz, para mais informações entre no nosso Discord: https://discord.gg/7NWVNH2cwj",
+		Default = "Feito por NICKSLKy",
 		RBX_LEGACY_CHAT = "O antigo chat do Roblox será removido em 30 de Abril de 2025.",
 		
 		Negative = "O número não pode ser negativo.",
