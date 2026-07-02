@@ -35,7 +35,7 @@ return {
 	},
 	
 	Notification = {
-		Default = "Made by Zv_yz, join our Discord: https://discord.gg/ZmJHV4yg3y",
+		Default = "Made by NICKSLKy",
 		RBX_LEGACY_CHAT = "Legacy Chat of ROBLOX is going to be removed on April 30th, 2025.",
 		
 		Negative = "The number cannot be negative.",
