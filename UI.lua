@@ -13,7 +13,7 @@ Module.UIElements = {
 	Box = {},
 }
 
-local UI_TITLE = "nickslk - Auto JJs"
+local UI_TITLE = "NICKSLKy - Auto JJs"
 
 local Version = "2.3"
 local Language = {}
